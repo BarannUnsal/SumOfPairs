@@ -1,0 +1,15 @@
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\bin\Debug\net6.0\SumOfPairs.exe
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\bin\Debug\net6.0\SumOfPairs.deps.json
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\bin\Debug\net6.0\SumOfPairs.runtimeconfig.json
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\bin\Debug\net6.0\SumOfPairs.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\bin\Debug\net6.0\ref\SumOfPairs.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\bin\Debug\net6.0\SumOfPairs.pdb
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\obj\Debug\net6.0\SumOfPairs.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\obj\Debug\net6.0\SumOfPairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\obj\Debug\net6.0\SumOfPairs.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\obj\Debug\net6.0\SumOfPairs.AssemblyInfo.cs
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\obj\Debug\net6.0\SumOfPairs.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\obj\Debug\net6.0\SumOfPairs.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\obj\Debug\net6.0\ref\SumOfPairs.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\obj\Debug\net6.0\SumOfPairs.pdb
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\SumOfPairs\obj\Debug\net6.0\SumOfPairs.genruntimeconfig.cache
